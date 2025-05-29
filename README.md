@@ -71,7 +71,7 @@ This project simulates a real-world trading environment and is ideal for develop
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/market-data-order-matching-engine.git
+   git clone https://github.com/samadhan7656/Real_Time_Market_Data.git
    cd market-data-order-matching-engine
    ```
 
@@ -138,31 +138,3 @@ The market data handler fetches and processes live data streams from external AP
 
 3. **Performance & Scalability**: Designed to handle high-frequency trading scenarios, the system is built for performance, with an emphasis on low-latency data processing and order matching.
 
----
-
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests for new features, optimizations, or bug fixes. Please make sure that all new code includes unit tests and follows the existing coding style.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For any inquiries or further information, please contact:
-
-- **Author**: Ömer Halit Cinar
-- **Email**: omerhalidcinar@gmail.com
-
-Feel free to reach out with questions, feedback, or ideas for future improvements!
